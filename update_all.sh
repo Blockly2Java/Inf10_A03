@@ -46,11 +46,13 @@ echo "--- Updating parent repository ---"
 if [[ -n $(git status -s | grep -E "^\s*M\s+(solution|template|tests)") ]]; then
     echo "Submodule changes detected, updating parent repository"
     git add solution template tests
-    git commit -m "Update submodules to latest commits"
+    git commit -a -m "Update submodules to latest commits"
     git push
     echo "Parent repository updated"
 else
     echo "No submodule changes to commit"
+    git commit -a -m "Update non-submodule changes" || echo "No non-submodule changes to commit"
+    git push
 fi
 
 echo ""
