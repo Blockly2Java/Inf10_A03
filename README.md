@@ -17,8 +17,10 @@ Detailled exercise instruction can be found in the readme file of the template r
 ## Test Case Overview
 
 Auto-updated by CI from latest test runs.
-Updated at (UTC): 2026-04-20T10:51:01Z
-Source commit: 93b3611723f6cb96bde58c1a663b68bf498b39b3
+<!-- markdownlint-disable-next-line MD033 -->
+> <sub>Last Updated: 20. Apr 2026 12:51:01 [CEST]</sub>
+<!-- markdownlint-disable-next-line MD033 -->
+> <sub>Source commit: 93b3611723f6cb96bde58c1a663b68bf498b39b3</sub>
 
 Legend: ✅ passed, ❌ failed/error, ⏭️ skipped, — not present.
 
