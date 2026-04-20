@@ -18,9 +18,9 @@ Detailed exercise instructions can be found in the README file of the template r
 
 Auto-updated by CI from latest test runs.
 <!-- markdownlint-disable-next-line MD033 -->
-> <sub>Last Updated: 20. Apr 2026 13:04:52 [CEST]</sub>
+> <sub>Last Updated: 20. Apr 2026 13:37:32 [CEST]</sub>
 <!-- markdownlint-disable-next-line MD033 -->
-> <sub>Commit: 8e5e2b50589481bb23c4145d4c0a00497a2bdcb0</sub>
+> <sub>Commit: 380f31758da7983944ed3510d266273df134cb1a</sub>
 
 Legend: ✅ passed, ❌ failed/error, ⏭️ skipped, — not present.
 
