@@ -10,6 +10,9 @@ jobs:
   test-solution:
     name: Test solution
     runs-on: ubuntu-latest
+    env:
+      GITHUB_PACKAGES_USERNAME: ${{ github.actor }}
+      GITHUB_PACKAGES_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     steps:
       - name: Checkout repository
