@@ -1,10 +1,5 @@
 # Empty
 
-<!-- START Adjust URL -->
-![Solution passing all tests](https://img.shields.io/github/actions/workflow/status/Blockly2Java/Empty/test-solution.yml?branch=main&label=Solution%20passing%20all%20tests)
-![Template compiling successfully](https://img.shields.io/github/actions/workflow/status/Blockly2Java/Empty/test-template.yml?branch=main&label=Template%20compiling%20successfully)
-<!-- END Adjust URL -->
-
 ## Abstract
 
 <!-- START Adjust for exercise -->
@@ -18,9 +13,9 @@ Detailed exercise instructions can be found in the README file of the template r
 
 Auto-updated by CI from latest test runs.
 <!-- markdownlint-disable-next-line MD033 -->
-> <sub>Last Updated: 28. Apr 2026 14:20:55 [CEST]</sub>
+> <sub>Last Updated: 28. Apr 2026 14:29:33 [CEST]</sub>
 <!-- markdownlint-disable-next-line MD033 -->
-> <sub>Commit: a4baffc3ca7e50825f7842eddb00830bf4af813c</sub>
+> <sub>Commit: ba4b1d7e84485bdcf0256904b004012f5da9b5ed</sub>
 
 Legend: ✅ passed, ❌ failed/error, ⏭️ skipped, — not present.
 
